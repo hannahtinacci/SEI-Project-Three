@@ -11,7 +11,7 @@ Overview<br/>
 [Key learnings](#learnings)<br/>
 
 ## Overview
-The Natural Wanderer was my third project at GA and was a group project with two other people (Jonathan Ward and Michael Edwards). With our movements and travel restricted somewhat over the past year, our thoughts were firmly on being outside and within nature - hence curating a list of fascinating national parks across the globe that we could plan to visit at some point in the not-too-distant future! It is a full-stack MERN app with CRUD functionality, where users can register and save parks to their account. Some features are not available unless logged in and if users are, they can comment and add specific recommendations for each park.
+The Natural Wanderer was my third project at GA and was a group project with two other people (Jonty Ward and Mike Edwards). With our movements and travel restricted somewhat over the past year, our thoughts were firmly on being outside and within nature - hence curating a list of fascinating national parks across the globe that we could plan to visit at some point in the not-too-distant future! It is a full-stack MERN app with CRUD functionality, where users can register and save parks to their account. Some features are not available unless logged in and if users are, they can comment and add specific recommendations for each park.
 
 ![homepage](https://github.com/hannahtinacci/SEI-Project-Three/blob/main/screenshots/project3-homepage.png)
 
