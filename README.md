@@ -126,7 +126,7 @@ useEffect(() => {
   }, [confirm])
   ```
   
- We used two external APIs for this project, one to embed maps and the other to show the current and 7-day weather forecast:
+We used two external APIs for this project, one to embed maps and the other to show the current and 7-day weather forecast. We carried thr toggle style through to both for consistency:
  
  Map:
  ![parkMap.gif](screenshots/map.gif)
