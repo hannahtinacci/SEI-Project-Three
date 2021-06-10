@@ -71,7 +71,7 @@ We also set up a Trello board, which proved to be invaluable as the week went on
 ### Process
 After our extensive planning on Day 1, we were ready to start building out our backend on Day 2. We wanted to get the majority of the backend and routes set up before we started with the frontend so that we could test all of the endpoints through Insomnia thoroughly and make sure we were getting all of the information back that we were expecting. In terms of functionality, we used CRUD for our models’ routes. We had already planned to all work full-stack so we split out tasks evenly based on priority and logical order for functionality. Some areas I personally worked on were authentication and the user profile page and the edit functionality that goes with it. As it turns out, we managed to complete the initial build of the backend by the end of Day 3. 
 
-# Models
+Models:
 ```
 const commentSchema = new mongoose.Schema({
  text: { type: String, required: true, maxLength: 500 },
@@ -106,7 +106,8 @@ const nationalParkSchema = new mongoose.Schema({
  parkUrl: { type: String }
 })
 ```
-# Authentication
+
+Authentication:
 ```
 // * Login a user
 
